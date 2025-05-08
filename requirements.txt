@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+black
+pylint
+pytest
+pydantic
+wikipedia
+fire
+ipython
